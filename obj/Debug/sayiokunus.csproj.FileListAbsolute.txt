@@ -1,0 +1,7 @@
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\obj\Debug\sayiokunus.csproj.AssemblyReference.cache
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\obj\Debug\sayiokunus.csproj.CoreCompileInputs.cache
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\bin\Debug\sayiokunus.exe.config
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\bin\Debug\sayiokunus.exe
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\bin\Debug\sayiokunus.pdb
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\obj\Debug\sayiokunus.exe
+C:\Users\HavaLlan\Documents\c#Demos\c#starter\sayiokunus\obj\Debug\sayiokunus.pdb
